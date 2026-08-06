@@ -55,10 +55,10 @@ I also share my journey building with modern tools, including **AI-assisted deve
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robinafaruqia&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4FF&text_color=c9d1d9"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=robinafaruqia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robinafaruqia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=robinafaruqia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=robinafaruqia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinafaruqia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
