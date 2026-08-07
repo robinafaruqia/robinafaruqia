@@ -55,10 +55,23 @@ I also share my journey building with modern tools, including **AI-assisted deve
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robinafaruqia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=robinafaruqia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF"/>
+[![GitHub followers](https://img.shields.io/github/followers/robinafaruqia?style=for-the-badge&logo=github&label=Followers&color=6C63FF)](https://github.com/robinafaruqia)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/robinafaruqia&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00D4FF)](https://github.com/robinafaruqia?tab=repositories)
+[![GitHub User](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/robinafaruqia&query=%24.login&label=GitHub&style=for-the-badge&logo=github&color=181717)](https://github.com/robinafaruqia)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinafaruqia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages"/>
+<br/><br/>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=robinafaruqia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF"/>
+
+<br/><br/>
+
+**Top Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
