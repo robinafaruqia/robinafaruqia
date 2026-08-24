@@ -61,7 +61,7 @@ I also share my journey building with modern tools, including **AI-assisted deve
 
 <br/><br/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=robinafaruqia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF"/>
+<img height="180" src="./profile/streak.svg" alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
